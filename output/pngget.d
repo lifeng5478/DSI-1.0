@@ -1,0 +1,10 @@
+..\output\pngget.o: ..\PNGLib\pngget.c
+..\output\pngget.o: ..\PNGLib\png.h
+..\output\pngget.o: ..\PNGLib\zlib.h
+..\output\pngget.o: ..\PNGLib\zconf.h
+..\output\pngget.o: ..\PNGLib\pngconf.h
+..\output\pngget.o: C:\Keil\ARM\ARMCC\Bin\..\include\setjmp.h
+..\output\pngget.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\pngget.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\pngget.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\pngget.o: C:\Keil\ARM\ARMCC\Bin\..\include\time.h

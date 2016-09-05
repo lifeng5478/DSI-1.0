@@ -1,0 +1,10 @@
+..\output\pngrtran.o: ..\PNGLib\pngrtran.c
+..\output\pngrtran.o: ..\PNGLib\png.h
+..\output\pngrtran.o: ..\PNGLib\zlib.h
+..\output\pngrtran.o: ..\PNGLib\zconf.h
+..\output\pngrtran.o: ..\PNGLib\pngconf.h
+..\output\pngrtran.o: C:\Keil\ARM\ARMCC\Bin\..\include\setjmp.h
+..\output\pngrtran.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\pngrtran.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\pngrtran.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\pngrtran.o: C:\Keil\ARM\ARMCC\Bin\..\include\time.h

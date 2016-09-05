@@ -1,0 +1,9 @@
+..\output\deflate.o: ..\PNGLib\deflate.c
+..\output\deflate.o: ..\PNGLib\deflate.h
+..\output\deflate.o: ..\PNGLib\zutil.h
+..\output\deflate.o: ..\PNGLib\zlib.h
+..\output\deflate.o: ..\PNGLib\zconf.h
+..\output\deflate.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\deflate.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\deflate.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\deflate.o: C:\Keil\ARM\ARMCC\Bin\..\include\errno.h

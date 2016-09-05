@@ -1,0 +1,9 @@
+..\output\cancle.o: ..\image\cancle.c
+..\output\cancle.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\cancle.o: ..\emWin\inc\GUI.h
+..\output\cancle.o: ..\emWin\inc\GUI_ConfDefaults.h
+..\output\cancle.o: ..\emWin\Config\GUIConf.h
+..\output\cancle.o: ..\emWin\inc\GUI_Type.h
+..\output\cancle.o: ..\emWin\inc\LCD.h
+..\output\cancle.o: ..\emWin\inc\Global.h
+..\output\cancle.o: ..\emWin\inc\GUI_Version.h

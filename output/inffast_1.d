@@ -1,0 +1,11 @@
+..\output\inffast_1.o: ..\PNGLib\inffast.c
+..\output\inffast_1.o: ..\PNGLib\zutil.h
+..\output\inffast_1.o: ..\PNGLib\zlib.h
+..\output\inffast_1.o: ..\PNGLib\zconf.h
+..\output\inffast_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\inffast_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\inffast_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\inffast_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\errno.h
+..\output\inffast_1.o: ..\PNGLib\inftrees.h
+..\output\inffast_1.o: ..\PNGLib\inflate.h
+..\output\inffast_1.o: ..\PNGLib\inffast.h

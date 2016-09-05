@@ -1,0 +1,12 @@
+..\output\infback.o: ..\PNGLib\infback.c
+..\output\infback.o: ..\PNGLib\zutil.h
+..\output\infback.o: ..\PNGLib\zlib.h
+..\output\infback.o: ..\PNGLib\zconf.h
+..\output\infback.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\infback.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\infback.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\infback.o: C:\Keil\ARM\ARMCC\Bin\..\include\errno.h
+..\output\infback.o: ..\PNGLib\inftrees.h
+..\output\infback.o: ..\PNGLib\inflate.h
+..\output\infback.o: ..\PNGLib\inffast.h
+..\output\infback.o: ..\PNGLib\inffixed.h

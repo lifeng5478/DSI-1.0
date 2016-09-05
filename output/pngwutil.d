@@ -1,0 +1,10 @@
+..\output\pngwutil.o: ..\PNGLib\pngwutil.c
+..\output\pngwutil.o: ..\PNGLib\png.h
+..\output\pngwutil.o: ..\PNGLib\zlib.h
+..\output\pngwutil.o: ..\PNGLib\zconf.h
+..\output\pngwutil.o: ..\PNGLib\pngconf.h
+..\output\pngwutil.o: C:\Keil\ARM\ARMCC\Bin\..\include\setjmp.h
+..\output\pngwutil.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\pngwutil.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\pngwutil.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\pngwutil.o: C:\Keil\ARM\ARMCC\Bin\..\include\time.h

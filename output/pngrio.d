@@ -1,0 +1,10 @@
+..\output\pngrio.o: ..\PNGLib\pngrio.c
+..\output\pngrio.o: ..\PNGLib\png.h
+..\output\pngrio.o: ..\PNGLib\zlib.h
+..\output\pngrio.o: ..\PNGLib\zconf.h
+..\output\pngrio.o: ..\PNGLib\pngconf.h
+..\output\pngrio.o: C:\Keil\ARM\ARMCC\Bin\..\include\setjmp.h
+..\output\pngrio.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\pngrio.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\pngrio.o: C:\Keil\ARM\ARMCC\Bin\..\include\math.h
+..\output\pngrio.o: C:\Keil\ARM\ARMCC\Bin\..\include\time.h

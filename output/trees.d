@@ -1,0 +1,10 @@
+..\output\trees.o: ..\PNGLib\trees.c
+..\output\trees.o: ..\PNGLib\deflate.h
+..\output\trees.o: ..\PNGLib\zutil.h
+..\output\trees.o: ..\PNGLib\zlib.h
+..\output\trees.o: ..\PNGLib\zconf.h
+..\output\trees.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\trees.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\trees.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\trees.o: C:\Keil\ARM\ARMCC\Bin\..\include\errno.h
+..\output\trees.o: ..\PNGLib\trees.h

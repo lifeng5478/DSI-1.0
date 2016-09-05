@@ -1,0 +1,12 @@
+..\output\inflate_1.o: ..\PNGLib\inflate.c
+..\output\inflate_1.o: ..\PNGLib\zutil.h
+..\output\inflate_1.o: ..\PNGLib\zlib.h
+..\output\inflate_1.o: ..\PNGLib\zconf.h
+..\output\inflate_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\inflate_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\inflate_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\inflate_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\errno.h
+..\output\inflate_1.o: ..\PNGLib\inftrees.h
+..\output\inflate_1.o: ..\PNGLib\inflate.h
+..\output\inflate_1.o: ..\PNGLib\inffast.h
+..\output\inflate_1.o: ..\PNGLib\inffixed.h

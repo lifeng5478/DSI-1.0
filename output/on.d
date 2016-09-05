@@ -1,0 +1,9 @@
+..\output\on.o: ..\image\ON.c
+..\output\on.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\on.o: ..\emWin\inc\GUI.h
+..\output\on.o: ..\emWin\inc\GUI_ConfDefaults.h
+..\output\on.o: ..\emWin\Config\GUIConf.h
+..\output\on.o: ..\emWin\inc\GUI_Type.h
+..\output\on.o: ..\emWin\inc\LCD.h
+..\output\on.o: ..\emWin\inc\Global.h
+..\output\on.o: ..\emWin\inc\GUI_Version.h

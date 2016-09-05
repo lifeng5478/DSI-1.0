@@ -1,0 +1,9 @@
+..\output\bt2.o: ..\image\BT2.c
+..\output\bt2.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\bt2.o: ..\emWin\inc\GUI.h
+..\output\bt2.o: ..\emWin\inc\GUI_ConfDefaults.h
+..\output\bt2.o: ..\emWin\Config\GUIConf.h
+..\output\bt2.o: ..\emWin\inc\GUI_Type.h
+..\output\bt2.o: ..\emWin\inc\LCD.h
+..\output\bt2.o: ..\emWin\inc\Global.h
+..\output\bt2.o: ..\emWin\inc\GUI_Version.h

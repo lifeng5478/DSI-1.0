@@ -1,0 +1,10 @@
+..\output\crc32_1.o: ..\PNGLib\crc32.c
+..\output\crc32_1.o: ..\PNGLib\zutil.h
+..\output\crc32_1.o: ..\PNGLib\zlib.h
+..\output\crc32_1.o: ..\PNGLib\zconf.h
+..\output\crc32_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\output\crc32_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\string.h
+..\output\crc32_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+..\output\crc32_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\errno.h
+..\output\crc32_1.o: C:\Keil\ARM\ARMCC\Bin\..\include\limits.h
+..\output\crc32_1.o: ..\PNGLib\crc32.h
